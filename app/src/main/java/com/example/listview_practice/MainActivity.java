@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         public View getView(int position, View convertView, ViewGroup parent) {
 
             View view = getLayoutInflater().inflate(R.layout.list_item,null);
-            ImageView ivImage = (ImageView) findViewById(R.id.iv_list_item);
+            ImageView ivImage = (ImageView) view.findViewById(R.id.iv_list_item);
             TextView tvName =(TextView) view.findViewById(R.id.tv_list_item);
             ivImage.setImageResource(imageId[position]);
             tvName.setText(CQUId[position]);
