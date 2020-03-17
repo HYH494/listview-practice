@@ -1,0 +1,132 @@
+            case 0:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 1:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 2:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 3:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 4:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 5:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 6:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 7:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 8:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 9:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 10:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 11:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 12:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 13:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 14:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 15:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 16:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 17:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 18:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 19:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 20:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 21:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 22:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 23:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 24:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 25:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 26:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 27:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 28:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 29:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 30:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 31:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
+            case 32:
+                imageView.setImageResource(imageId[position]);
+                textView.setText(CQUId[position]);
+                break;
